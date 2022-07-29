@@ -1,0 +1,9 @@
+.Pallet {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.Pallet-colors {
+    height: 90%;
+}
